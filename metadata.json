@@ -1,0 +1,6 @@
+{
+  "name": "Number Guessing Game",
+  "description": "เกมทายตัวเลข 1-100 สำหรับนักศึกษา พร้อมระบบคำใบ้ คะแนน และวิธีเล่น",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
